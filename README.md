@@ -1,5 +1,4 @@
-## Department Management System
-
+## WorkforceHQ
 ## Description
 
 You will create an API that allows users to log in and access protected endpoints. The API will include endpoints for managing departments and sub-department
@@ -38,9 +37,9 @@ To run the container, use the following command:
 
 - The server will be running on [localhost:3000](http://0.0.0.0:3000)
 
-## CONTRIBUTING TO Department Management System
+## CONTRIBUTING TO WorkforceHQ
 
-#### While the Department Management System project is completely free to use and open source, here are a few things to note when making Pull Requests
+#### While the WorkforceHQ project is completely free to use and open source, here are a few things to note when making Pull Requests
 
 - Ensure the PR is made to the `dev` branch so it can be reviewed before it gets merged to the main branch (we are currently looking to implement a CI/CD pipeline as soon as possible) so as to automate things and reduce room for human error
 - The code architecture and design pattern for the PR should be consistent with the existing codebase
@@ -109,7 +108,7 @@ curl -XPOST "http://127.0.0.1:3000/auth/signin" \
 
 POSTMAN API Docs :
 
-https://api.postman.com/collections/15331534-fafec324-ee7d-4c78-a967-636ac55b0420?access_key=PMAT-01JRR0Q753A26KKB4YHJNXPXCT
+
 
 ## Stay in touch
 
