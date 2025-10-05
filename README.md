@@ -5,7 +5,7 @@ You will create an API that allows users to log in and access protected endpoint
 
 ## Contribution
 
-To get started with this project, clone the repo by running the command git clone https://github.com/Adetoyebamise/department-management-system.git or downloading the zip file
+To get started with this project, clone the repo by running the command git clone https://github.com/Adetoyebamise/workforceHQ.git or downloading the zip file
 
 In the root of the project run the following command
 
